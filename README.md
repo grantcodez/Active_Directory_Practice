@@ -51,31 +51,31 @@ Set up installation for Domain Controller:  <br/>
 <img src="AD_Pratice_Photos/AD_8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Created Admin Organizational Unit  <br/>
 <img src="AD_Pratice_Photos/AD_9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Added user to the admin OU  <br/>
 <img src="AD_Pratice_Photos/AD_10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Added user to the Domain Controller  <br/>
 <img src="AD_Pratice_Photos/AD_11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
 <br />
-Observe the wiped disk:  <br/>
+<br />
+Used remote access role to add NAT <br/>
 <img src="AD_Pratice_Photos/AD_12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+
 <img src="AD_Pratice_Photos/AD_13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Setup for DCHP server <br/>
 <img src="AD_Pratice_Photos/AD_14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Create new scope for DCHP server  <br/>
 <img src="AD_Pratice_Photos/AD_15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
