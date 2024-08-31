@@ -45,6 +45,68 @@ Sanitization complete:  <br/>
 <br />
 Observe the wiped disk:  <br/>
 <img src="AD_Pratice_Photos/AD_7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="AD_Pratice_Photos/AD_22.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
 </p>
 
 <!--
