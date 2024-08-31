@@ -2,7 +2,8 @@
 
 
 <h2>Description</h2>
-This project uses active directory to create a domain controller and a client. Then it connects the client
+This project uses active directory to create a domain controller with an internal and external network. Then a client1 
+windows 10 machine is created with it's own internal network and that is connected to the Domain Controller through NAT.
 <br />
 
 
