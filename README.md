@@ -35,19 +35,19 @@ Inserted additions to CD image to have more responsivness:  <br/>
 <img src="AD_Pratice_Photos/AD_4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Searched network details to find internal and external networks  <br/>
 <img src="AD_Pratice_Photos/AD_5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Changed the internal networks IP address from APIPA to class B IP address:  <br/>
 <img src="AD_Pratice_Photos/AD_6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Set up installation for Domain Controller:  <br/>
 <img src="AD_Pratice_Photos/AD_7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+
 <img src="AD_Pratice_Photos/AD_8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
