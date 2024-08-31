@@ -79,31 +79,31 @@ Create new scope for DCHP server  <br/>
 <img src="AD_Pratice_Photos/AD_15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Run powershell script to add users to AD from a txt file  <br/>
 <img src="AD_Pratice_Photos/AD_16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+All users have been successfully added  <br/>
 <img src="AD_Pratice_Photos/AD_17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <br />
 <br />
-Observe the wiped disk:  <br/>
+<br />
+  Create a client1 VB server <br/>
 <img src="AD_Pratice_Photos/AD_18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Add sever options to get a default gateway for the client   <br/>
 <img src="AD_Pratice_Photos/AD_19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Ping while on the client VB to see if network connection is working  <br/>
 <img src="AD_Pratice_Photos/AD_20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Add client to the domain server instead of workgroup: <br/>
 <img src="AD_Pratice_Photos/AD_21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
-Observe the wiped disk:  <br/>
+Check to see if client VB has been given a DCHP lease  <br/>
 <img src="AD_Pratice_Photos/AD_22.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <br />
