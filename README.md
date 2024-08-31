@@ -19,19 +19,19 @@ This project uses active directory to create a domain controller and a client. T
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Active Directory Steps"/>
+Create a Domain Controller usings windows server 2019: <br/>
+<img src="AD_Pratice_Photos/AD_" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Mount the ISO file to the Virtual box:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Log Into Domain Controller: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Inserted additions to CD image to have more responsivness:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
