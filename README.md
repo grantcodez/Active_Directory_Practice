@@ -20,31 +20,31 @@ This project uses active directory to create a domain controller and a client. T
 
 <p align="center">
 Create a Domain Controller usings windows server 2019: <br/>
-<img src="AD_Pratice_Photos/AD_" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="AD_Pratice_Photos/AD_1.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Mount the ISO file to the Virtual box:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="AD_Pratice_Photos/AD_2.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Log Into Domain Controller: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="AD_Pratice_Photos/AD_3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Inserted additions to CD image to have more responsivness:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="AD_Pratice_Photos/AD_4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="AD_Pratice_Photos/AD_5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="AD_Pratice_Photos/AD_6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="AD_Pratice_Photos/AD_7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
